@@ -1,8 +1,7 @@
 ## Table of contents
-
-*[General info](#general-info)
-*[Technologies](#technologies)
-*[Hardware](#hardware)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## General Info
 
